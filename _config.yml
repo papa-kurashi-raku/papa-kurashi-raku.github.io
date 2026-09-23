@@ -1,0 +1,26 @@
+# ブログ全体の設定
+title: 40代パパの暮らしラク化ノート
+description: >-
+  製造業で交代勤務(夜勤あり)をしながら、小5と大学生の二人を子育て中の40代パパ。
+  実際に使って「効いた」ものだけを紹介します。
+  ※当ブログにはアフィリエイトリンク(広告)を含む記事があります。
+lang: ja
+url: "https://papa-kurashi-raku.github.io"
+baseurl: ""
+timezone: Asia/Tokyo
+
+# 見た目(GitHubが用意しているシンプルなデザイン)
+theme: minima
+minima:
+  skin: auto
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# 上のメニューに並べるページ
+header_pages:
+  - about.md
+
+# 日付の表示
+minima_date_format: "%Y年%m月%d日"
