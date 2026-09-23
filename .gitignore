@@ -1,3 +1,6 @@
+# 公開前の下書き(公開用の場所に上げない)
+_drafts/
+
 _site/
 .jekyll-cache/
 .sass-cache/
