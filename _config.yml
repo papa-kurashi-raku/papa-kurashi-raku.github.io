@@ -12,7 +12,7 @@ timezone: Asia/Tokyo
 # 見た目(GitHubが用意しているシンプルなデザイン)
 theme: minima
 minima:
-  skin: auto
+  date_format: "%Y年%-m月%-d日"
 
 plugins:
   - jekyll-feed
@@ -21,6 +21,3 @@ plugins:
 # 上のメニューに並べるページ
 header_pages:
   - about.md
-
-# 日付の表示
-minima_date_format: "%Y年%m月%d日"
