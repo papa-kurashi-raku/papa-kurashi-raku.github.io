@@ -8,5 +8,6 @@ layout: home
 
 - 🛒 使ってよかったもの・気になっているものは [楽天ROOM](https://room.rakuten.co.jp/room_b8f9ab98e8/items) にまとめています
 - 💬 日々の気づきは [Threads](https://www.threads.com/@papa_kurashi_raku) で発信しています
+- 📌 暮らしの時短アイデアは [Pinterest](https://jp.pinterest.com/papa_rakuka_note/) にまとめています
 
 <small>※当ブログにはアフィリエイトリンク(広告)を含む記事があります。</small>
