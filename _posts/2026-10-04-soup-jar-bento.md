@@ -16,9 +16,11 @@ title: 夜勤の休憩に、温かいものを食べたい。気になってい�
 
 ## 気になっている:サーモス 真空断熱スープジャー 0.4L(JED-400)
 
+<p style="text-align:center"><a href="https://hb.afl.rakuten.co.jp/ichiba/570d96fa.82e2228e.570d9706.751383dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F405668%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9" target="_blank" rel="nofollow sponsored noopener"><img src="https://hbb.afl.rakuten.co.jp/hgb/570d96fa.82e2228e.570d9706.751383dc/?me_id=1261122&item_id=11295488&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Frakuten24%2Fcabinet%2F668%2F405668.jpg%3F_ex%3D240x240&s=240x240&t=pict" border="0" alt="サーモス 真空断熱スープジャー JED-400" title="サーモス 真空断熱スープジャー JED-400"></a></p>
+
 **サーモス 真空断熱スープジャー 0.4L JED-400(食洗機対応)**
 価格:3,499円(送料無料)/レビュー評価:4.5(127件)
-[楽天市場で見る](https://hb.afl.rakuten.co.jp/ichiba/57d535a9.8376d970.57d535aa.cefdba75/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F405668%2F&link_type=hybrid_url&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9)
+[楽天市場で見る](https://hb.afl.rakuten.co.jp/ichiba/570d96fa.82e2228e.570d9706.751383dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F405668%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9){:rel="sponsored nofollow noopener" target="_blank"}
 
 家で温めたスープやみそ汁を入れて、そのまま持ち運べる保温容器です。
 サーモスの定番で、同じ型番を扱うお店も多く、選びやすいのも気になった理由です。
