@@ -17,6 +17,8 @@ title: パソコンデスクの上に物を置きたくない。机の横に付�
 
 ## 使っている:tower テーブル横バスケット
 
+<p style="text-align:center"><a href="https://hb.afl.rakuten.co.jp/ichiba/57d535a9.8376d970.57d535aa.cefdba75/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fordy%2F1572%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9" target="_blank" rel="nofollow sponsored noopener"><img src="https://hbb.afl.rakuten.co.jp/hgb/57d535a9.8376d970.57d535aa.cefdba75/?me_id=1240422&item_id=10013409&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fordy%2Fcabinet%2Fyama%2Fthum%2Fym-1572_rank.jpg%3F_ex%3D240x240&s=240x240&t=pict" border="0" alt="tower テーブル横バスケット" title="tower テーブル横バスケット"></a></p>
+
 **tower テーブル横バスケット(山崎実業)**
 価格:2,970円(送料無料)/レビュー評価:4.83(6件)
 [楽天市場で見る](https://hb.afl.rakuten.co.jp/ichiba/57d535a9.8376d970.57d535aa.cefdba75/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fordy%2F1572%2F&link_type=hybrid_url&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9)
