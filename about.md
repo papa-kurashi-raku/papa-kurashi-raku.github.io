@@ -27,6 +27,7 @@ permalink: /about/
 
 - 🛒 [楽天ROOM](https://room.rakuten.co.jp/room_b8f9ab98e8/items):使ってよかったもの・気になっているもの
 - 💬 [Threads](https://www.threads.com/@papa_kurashi_raku):日々の気づき
+- 📌 [Pinterest](https://jp.pinterest.com/papa_rakuka_note/):暮らしの時短アイデアを画像でまとめています
 
 ## 広告について
 
